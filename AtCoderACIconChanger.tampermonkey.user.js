@@ -37,7 +37,7 @@
     background-image: url(https://kangping-git.github.io/meme/CE.png);
 }
 .label[data-original-title="ジャッジ待ち"],.label[title="ジャッジ待ち"],.label[data-original-title="ジャッジ中"],.label[title="ジャッジ中"],.label[title="Judging"],.label[title="Waiting for Judging"],.label[data-original-title="Judging"],.label[data-original-title="Waiting for Judging"]{
-    background-image: url(https://kangping-git.github.io/meme/CE.png);
+    background-image: url(https://kangping-git.github.io/meme/WJ.png);
 }`
     document.head.appendChild(style)
 })()
