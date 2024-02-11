@@ -30,6 +30,9 @@
 .label[data-original-title="実行時間制限超過"],.label[title="実行時間制限超過"],.label[data-original-title="Time Limit Exceeded"],.label[title="Time Limit Exceeded"]{
     background-image: url(https://kangping-git.github.io/meme/TLE.png);
 }
+.label[data-original-title="メモリ制限超過"],.label[title="メモリ制限超過"],.label[data-original-title="Memory Limit Exceeded"],.label[title="Memory Limit Exceeded"]{
+    background-image: url(https://kangping-git.github.io/meme/MLE.png);
+}
 .label[data-original-title="実行時エラー"],.label[title="実行時エラー"],.label[data-original-title="Runtime Error"],.label[title="Runtime Error"]{
     background-image: url(https://kangping-git.github.io/meme/RE.png);
 }
